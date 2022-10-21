@@ -5,10 +5,10 @@
 - 🌱 Estudando Estrutura de dados e POO
 - 📫 Email de contato: thiagoprogramador70x7@gmail.com
 
-<div max-heigth="180em" align="center"style="display: inline_block">
+<div max-heigth="180em" align="center">
   <a href="https://github.com/Thiago-Develooper">
-  <img width="415em"align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Develooper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="400m"align="center" float: right; height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Develooper&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Develooper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img float: right; height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Develooper&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
