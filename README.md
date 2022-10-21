@@ -4,7 +4,8 @@
 - 🔭 Futuro desenvolvedor mobile
 - 🌱 Estudando Estrutura de dados e POO
 - 📫 Email de contato: thiagoprogramador70x7@gmail.com
-<div align="center"style="display: inline_block">
+
+<div heigth="180em" align="center"style="display: inline_block">
   <a href="https://github.com/Thiago-Develooper">
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Develooper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="rigth" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Develooper&layout=compact&langs_count=7&theme=dracula"/>
