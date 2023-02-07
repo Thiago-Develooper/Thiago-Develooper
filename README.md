@@ -1,6 +1,6 @@
 ### Oi eu sou o Thiago
 
-- ⚡ Hoje eu curso Engenharia de software - 2 semestre
+- ⚡ Cusando Engenharia de software - 3 semestre
 - 🔭 Futuro desenvolvedor mobile
 - 🌱 Estudando Estrutura de dados e POO
 - 📫 Email de contato: thiagoprogramador70x7@gmail.com
