@@ -1,8 +1,8 @@
 ### Oi eu sou o Thiago
 
 - ⚡ Cursando Engenharia de software - 3 semestre
-- 🔭 Futuro desenvolvedor mobile
-- 🌱 Estudando programação mobile nativa para aparelhos Apple
+- 🔭 desenvolvedor mobile
+- 🌱 Estudando programação mobile IOS
 - 📫 Email de contato: thiagoprogramador70x7@gmail.com
 
 <div max-heigth="180em" align="center">
