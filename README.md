@@ -1,6 +1,6 @@
 ### Oi eu sou o Thiago
 
-- ⚡ Cursando Engenharia de software - 8 semestre
+- ⚡ Graduado em Engenharia de software | UCB
 - 🔭 desenvolvedor mobile iOS
 - 📫 Email de contato: thiagoprogramador70x7@gmail.com
 
